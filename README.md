@@ -1,8 +1,6 @@
-Reflection: Industry Talk and Industry Visit：
+Reflection: Industry Talk：
 
 The industry talk and industry visit helped me better understand how information technology is applied in real industrial environments. From the PPG industry talk, I learned how large companies use data analytics, cloud infrastructure, and SAP enterprise systems to support global operations and improve efficiency. The speakers showed that IT is not only about programming, but also about system integration, planning, and supporting business decisions.
-During the industrial visit to Johor Port, I was able to see how ICT systems are used in daily port operations. Systems such as JPBI, ERP, and PAMS play an important role in managing logistics, security, and workflow. I also learned that technology can improve workplace safety by reducing human involvement in dangerous tasks. This visit helped me see the connection between what we learn in class and real-world applications.
-Overall, these activities increased my awareness of the importance of both technical skills and soft skills such as communication and adaptability. They motivated me to continue learning new technologies and better prepare myself for future industry challenges.
 
 Reflection: PC Assemble (Lab)：
 
